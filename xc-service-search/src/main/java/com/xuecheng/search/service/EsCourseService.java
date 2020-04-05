@@ -220,6 +220,7 @@ public class EsCourseService {
                 coursePub.setId(courseId);
                 coursePub.setName(name);
                 coursePub.setPic(pic);
+                coursePub.setGrade(charge);
                 coursePub.setGrade(grade);
                 coursePub.setTeachplan(teachplan);
                 coursePub.setDescription(description);
